@@ -6,11 +6,11 @@ Connect everything like in picture below.
 
 **ROW 1 PIN ON KEYPAD GOES TO DIGITAL 4 ON ARDUINO**
 
-**ROW 2 PIN ON DIGITAL 5 etc..**.
+**ROW 2 PIN ON DIGITAL 5 etc....**
 
 **COLUMN 1 GOES TO DIGITAL 8**
 
-**COLUMN 2 GOEST TO DIGITAL 9 etc..**
+**COLUMN 2 GOEST TO DIGITAL 9 etc....**
 
 
 On keypad type an angle and servo motor will move for that much and return back to normal.
