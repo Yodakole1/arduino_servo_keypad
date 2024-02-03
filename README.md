@@ -14,5 +14,5 @@ Connect everything like in picture below.
 
 
 On keypad type an angle and servo motor will move for that much and return back to normal.
-Servo im using is sg 90.(Any servo with 3 pins should work)
+Servo im using is sg 90(Any servo with 3 pins should work).
 
