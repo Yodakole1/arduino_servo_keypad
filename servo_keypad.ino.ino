@@ -1,3 +1,5 @@
+//Servo goes from 0-180
+
 #include<Servo.h>
 #include <Keypad.h>
 
